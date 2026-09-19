@@ -1,0 +1,14 @@
+# Blender 3.6.0 MTL File: 'SpaceShip_Highpoly.blend'
+# www.blender.org
+
+newmtl Material
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:/Users/dovgo/OneDrive/Desktop/3D/Texture/Sci-fi SpaceShip/DefaultMaterial_Base_color.png
+map_Ns C:/Users/dovgo/OneDrive/Desktop/3D/Texture/Sci-fi SpaceShip/DefaultMaterial_Roughness.png
+map_refl C:/Users/dovgo/OneDrive/Desktop/3D/Texture/Sci-fi SpaceShip/DefaultMaterial_Metallic.png
+map_Ke C:/Users/dovgo/OneDrive/Desktop/3D/Texture/Sci-fi SpaceShip/DefaultMaterial_Emissive.png
+map_Bump -bm 1.000000 C:/Users/dovgo/OneDrive/Desktop/3D/Texture/Sci-fi SpaceShip/DefaultMaterial_Normal_OpenGL.png

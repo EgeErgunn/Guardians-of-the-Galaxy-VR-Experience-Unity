@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 030a65340283b78478dd8047375a772c
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 375130
+  packageName: Free Blood VFX - URP
+  packageVersion: 1.0.1
+  assetPath: Assets/Vefects/Free Blood VFX/VFX/Materials/M_VFX_Fake_Blood_Directional_01_Lit.mat
+  uploadId: 906040
